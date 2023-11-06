@@ -7,5 +7,7 @@
     {"position": {"row": 1, "col": 2}, "shape": 11, "plates": [ {"1":2} ]},
     {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":2} ]}
   ],
-  "expectedResults": []
+  "expectedResults": [ 
+    {"position": {"row":1, "col": 2}, "plate": { "1": 4}}
+  ]
 }
