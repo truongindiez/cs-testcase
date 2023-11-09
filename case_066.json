@@ -9,6 +9,8 @@
 ],
   "expectedResults":
   [
-   
+    {"position": {"row": 1, "col": 1}, "plate": {"2": 1}},
+    {"position": {"row": 1, "col": 2}, "plate": {"1": 2}},
+    {"position": {"row": 2, "col": 1}, "plate": {"2": 1}}
   ]
 }
