@@ -1,0 +1,18 @@
+{
+  "shapes":
+  [
+    {"position": {"row": 1, "col": 0}, "shape": 11, "plates": [ {"3": 1, "4": 1, "2": 1} ]},
+    {"position": {"row": 2, "col": 1}, "shape": 11, "plates": [ {"2": 1, "3": 1, "4": 1} ]},
+    {"position": {"row": 1, "col": 2}, "shape": 11, "plates": [ {"4": 1, "1": 1, "2": 1, "3": 2} ]},
+    
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"2": 1, "3": 1, "4": 1, "1": 1} ]}
+  ],
+  "expectedResults": 
+  [
+    {"position": {"row": 0, "col": 1}, "plate": {"2": 2, "1": 3}},
+    {"position": {"row": 1, "col": 0}, "plate": {"2": 1, "3": 2}},
+    {"position": {"row": 1, "col": 1}, "plate": {"5": 2}},
+    {"position": {"row": 1, "col": 2}, "plate": {"4": 1}},
+    {"position": {"row": 2, "col": 1}, "plate": {"3": 2}}
+  ]
+}
