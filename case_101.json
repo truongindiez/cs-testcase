@@ -2,7 +2,7 @@
   "shapes":
   [
     {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1": 2}]},
-    {"position": {"row": 1, "col": 1}, "shape": 32, "plates": [ {"1": 2, "2":1, "3":1}, {"2":1, "3":1}, {"1":1, "2":1}]}
+    {"position": {"row": 1, "col": 1}, "shape": 33, "plates": [ {"1": 2, "2":1, "3":1}, {"2":1, "3":1}, {"1":1, "2":1}]}
   ],
   "expectedResults": []
 }
