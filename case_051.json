@@ -5,7 +5,7 @@
     {"position": {"row": 2, "col": 1}, "shape": 11, "plates": [ {"3": 1, "7": 1, "1": 1,"0":2} ]},
     {"position": {"row": 1, "col": 0}, "shape": 11, "plates": [ {"3": 1, "7": 1, "1": 1,"0":1} ]},
     {"position": {"row": 1, "col": 2}, "shape": 11, "plates": [ {"3": 1, "7": 2, "1": 1,"0":1} ]},
-    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"3": 1, "7": 1, "1": 1,"0"1} ]}
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"3": 1, "7": 1, "1": 1,"0":1} ]}
 ],
   "expectedResults": []
 }
