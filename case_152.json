@@ -1,7 +1,7 @@
 {
   "shapes":
   [
-    {"position": {"row": 2, "col": 1}, "shape": 11, "plates": [ {"1": 4}]},
+    {"position": {"row": 2, "col": 1}, "shape": 21, "plates": [ {"1": 1, "2":4}, {"1":1, "2":3}]}
     {"position": {"row": 3, "col": 1}, "shape": 11, "plates": [ {"2": 4}]},
     {"position": {"row": 3, "col": 3}, "shape": 11, "plates": [ {"1": 2}]},
     {"position": {"row": 2, "col": 2}, "shape": 22, "plates": [ {"1": 1, "2":4}, {"1":1, "2":3}]}
