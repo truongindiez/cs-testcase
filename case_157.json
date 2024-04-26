@@ -14,8 +14,8 @@
      {"position": {"row": 3, "col": 4}, "shape": 11, "plates": [ {"5": 5}]},
      {"position": {"row": 3, "col": 4}, "shape": 11, "plates": [ {"6": 2, "8":3}]},
 
-      {"position": {"row": 3, "col": 4}, "shape": 21, "plates": [ {"1": 2, "8":2}, {"6":3, "0":1]},  
-          {"position": {"row": 3, "col": 4}, "shape": 21, "plates": [ {"8": 3, "0":1}, {"6":1, "1":1, "8":2]},
+      {"position": {"row": 3, "col": 4}, "shape": 21, "plates": [ {"1": 2, "8":2}, {"6":3, "0":1}]},  
+          {"position": {"row": 3, "col": 4}, "shape": 21, "plates": [ {"8": 3, "0":1}, {"6":1, "1":1, "8":2}]},
     
     
       {"position": {"row": 3, "col": 1}, "shape": 21, "plates": [ {"6": 4}, {"8":3, "0":1} ]},
