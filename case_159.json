@@ -7,7 +7,7 @@
      {"position": {"row": 1, "col": 1}, "shape": 22, "plates": [ {"4": 2, "8":2}, {"7": 2, "4":1, "1":1} ]},
    
      {"position": {"row": 1, "col": 1}, "shape": 22, "plates": [ {"0": 2, "8":2}, {"8": 1, "4":1, "1":2} ]},
-      {"position": {"row": 1, "col": 1}, "shape": 22, "plates": [ {"0":3}, {"8":3} ]},
+      {"position": {"row": 1, "col": 1}, "shape": 22, "plates": [ {"0":4}, {"8":4} ]},
      {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"7": 4} ]},
      {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"8": 4} ]},
      {"position": {"row": 1, "col": 1}, "shape": 21, "plates": [ {"8": 2, "7":1, "0":1}, {"8": 3, "7":1} ]},
