@@ -1,9 +1,9 @@
 {
   "shapes":
   [
-    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":4} ]},
-    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":5} ]},
-    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":3, "2":1} ]},
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":1, "2":3} ]},
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":3, "3":3} ]},
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"1":3, "4":3} ]},
   ],
   "expectedResults": []
   
