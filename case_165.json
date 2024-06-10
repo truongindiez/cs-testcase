@@ -1,0 +1,10 @@
+{
+  "shapes":
+  [
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"5":2, "6":1} ]},
+    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"5":2, "6":1} ]},
+  
+  ],
+  "expectedResults": []
+  
+}
