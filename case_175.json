@@ -1,8 +1,10 @@
 {
   "shapes":
   [
-    {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"3": 1, "0": 1}]},
+   
     {"position": {"row": 1, "col": 0}, "shape": 11, "plates": [ {"0": 5, "1":1}]},
+     {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"3": 2, "0": 1, "5":1}]},
+     {"position": {"row": 1, "col": 1}, "shape": 11, "plates": [ {"3": 4}]},
     {"position": {"row": 2, "col": 1}, "shape": 11, "plates": [ { "0": 3, "4":1}]},
     {"position": {"row": 1, "col": 2}, "shape": 11, "plates": [ {"0": 3, "2":1}]}
     
